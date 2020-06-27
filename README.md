@@ -1,7 +1,7 @@
 # amtiles.es
 Desarrollo de busqueda avanzada del sitio de Azulejos Amtiles https://amtiles.es 
 
-Las diferentes categorias tendran un sistema de busquedas auxiliar de prestashop a partir de https://amtiles.es
+Las diferentes categorias tendran un sistema de busquedas 
 
 Como ejemplo quedara este detalle final de output 
 La categoria de revestimiento https://amtiles.es/revestimiento tendra que apuntar a /revestimientos 
